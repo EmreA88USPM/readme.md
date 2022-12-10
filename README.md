@@ -42,21 +42,3 @@ Hello, I am a C++ and Java developer.I am interested in design and modeling!
 </a>
   </td></tr>
 </tbody></table>
-
-<table>
-  <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
