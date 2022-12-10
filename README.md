@@ -8,11 +8,20 @@ Hello, I am a C++ and Java developer.I am interested in design and modeling!
 [![GitHub URL](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=gray)](https://youtube.com)
 [![Discord URL](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=dark_blue)](https://youtube.com)
 
-
-\begin{table}[]
-\begin{tabular}{lll}
-{[}!{[}GitHub URL{]}(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=gray){]}(https://youtube.com) & {[}!{[}GitHub URL{]}(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=gray){]}(https://youtube.com) & {[}!{[}GitHub URL{]}(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=gray){]}(https://youtube.com) \\
-{[}!{[}GitHub URL{]}(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=gray){]}(https://youtube.com) & {[}!{[}GitHub URL{]}(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=gray){]}(https://youtube.com) & {[}!{[}GitHub URL{]}(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=gray){]}(https://youtube.com) \\
-{[}!{[}GitHub URL{]}(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=gray){]}(https://youtube.com) & {[}!{[}GitHub URL{]}(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=gray){]}(https://youtube.com) & {[}!{[}GitHub URL{]}(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=gray){]}(https://youtube.com)
-\end{tabular}
-\end{table}
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
