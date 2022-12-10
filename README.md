@@ -1,7 +1,7 @@
 # readme.md
 Hello, I am a C++ and Java developer.I am interested in design and modeling!
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,c#&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs&theme=light)](https://skillicons.dev)
 
 ![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrea88uspm&theme=dark&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emrea88uspm&theme=dark&show_icons=true)
@@ -17,3 +17,6 @@ Hello, I am a C++ and Java developer.I am interested in design and modeling!
 <br />
 [!["Buy Me A Coffee"](https://img.shields.io/badge/buymeacoffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=yellow)](https://www.buymeacoffee.com/akyolemre8x)
 [![linkedin](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=Linkedin&logoColor=aqua)](https://www.linkedin.com/in/emre-a-48713a258/)
+
+readme-using
+https://github.com/tandpfun/skill-icons#specifying-icons
