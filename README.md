@@ -2,9 +2,11 @@
 Hello, I am a C++ and Java developer.I am interested in design and modeling!
 
 Languages <span style='font-size:100px;'>&#8658;</span>
+<br />
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs&theme=light)](https://skillicons.dev)
 
 Programs <span style='font-size:100px;'>&#8658;</span>
+<br />
 [![My Skills](https://skillicons.dev/icons?i=blender,eclipse,idea,unity,unreal,visualstudio,vscode&theme=light)](https://skillicons.dev)
 
 ![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrea88uspm&theme=dark&show_icons=true)
