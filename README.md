@@ -1,7 +1,7 @@
 # readme.md
 Hello, I am a C++ and Java developer.I am interested in design and modeling!
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,csharp&theme=light)](https://skillicons.dev)
 
 ![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrea88uspm&theme=dark&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emrea88uspm&theme=dark&show_icons=true)
