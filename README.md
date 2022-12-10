@@ -21,8 +21,8 @@ Hello, I am a C++ and Java developer.I am interested in design and modeling!
     <td></td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
