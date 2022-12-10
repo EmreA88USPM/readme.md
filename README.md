@@ -1,6 +1,13 @@
 # readme.md
 Hello, I am a C++ and Java developer.I am interested in design and modeling!
 
+# GitHub CLI api
+# https://cli.github.com/manual/gh_api
+
+gh api \
+  -H "Accept: application/vnd.github+json" \
+  /repos/OWNER/REPO/stats/code_frequency
+
 <span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span>    LINKS    <span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span>
 
 [![Discord URL](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=dark_blue)](https://discord.com)
