@@ -1,4 +1,4 @@
-# readme.md
+# README.md
 Hello, I am a C++ and Java developer.I am interested in design and modeling!
 
 <em><strong>Languages</strong></em> <span style='font-size:100px;'>&#8658;</span>
