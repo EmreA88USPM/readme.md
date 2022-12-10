@@ -1,11 +1,11 @@
 # readme.md
 Hello, I am a C++ and Java developer.I am interested in design and modeling!
 
-Languages <span style='font-size:100px;'>&#8658;</span>
+<strong>Languages</strong> <span style='font-size:100px;'>&#8658;</span>
 <br />
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs&theme=light)](https://skillicons.dev)
 
-Programs <span style='font-size:100px;'>&#8658;</span>
+<strong>Programs</strong> <span style='font-size:100px;'>&#8658;</span>
 <br />
 [![My Skills](https://skillicons.dev/icons?i=blender,eclipse,idea,visualstudio,vscode,unity,unreal&theme=light)](https://skillicons.dev)
 
