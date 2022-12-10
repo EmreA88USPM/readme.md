@@ -7,3 +7,12 @@ Hello, I am a C++ and Java developer.I am interested in design and modeling!
 [![YouTube URL](https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=Youtube&logoColor=red)](https://youtube.com)
 [![GitHub URL](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=gray)](https://youtube.com)
 [![Discord URL](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=dark_blue)](https://youtube.com)
+
+
+\begin{table}[]
+\begin{tabular}{lll}
+{[}!{[}GitHub URL{]}(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=gray){]}(https://youtube.com) & {[}!{[}GitHub URL{]}(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=gray){]}(https://youtube.com) & {[}!{[}GitHub URL{]}(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=gray){]}(https://youtube.com) \\
+{[}!{[}GitHub URL{]}(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=gray){]}(https://youtube.com) & {[}!{[}GitHub URL{]}(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=gray){]}(https://youtube.com) & {[}!{[}GitHub URL{]}(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=gray){]}(https://youtube.com) \\
+{[}!{[}GitHub URL{]}(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=gray){]}(https://youtube.com) & {[}!{[}GitHub URL{]}(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=gray){]}(https://youtube.com) & {[}!{[}GitHub URL{]}(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=gray){]}(https://youtube.com)
+\end{tabular}
+\end{table}
