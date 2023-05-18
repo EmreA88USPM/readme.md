@@ -28,5 +28,7 @@ Hello, I am a C++ and Java developer.I am interested in design and modeling!
 [!["Buy Me A Coffee"](https://img.shields.io/badge/buymeacoffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=yellow)](https://www.buymeacoffee.com/akyolemre8x)
 [![linkedin](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=Linkedin&logoColor=aqua)](https://www.linkedin.com/in/emre-a-48713a258/)
 
+![Visitor Count](https : //profile-counter.glitch.me/{EmreA88USPM}/count.svg)
+
 readme-using
 https://github.com/tandpfun/skill-icons#specifying-icons
