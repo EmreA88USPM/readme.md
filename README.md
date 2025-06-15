@@ -4,7 +4,7 @@ Hello, I am a C++ and Java developer.I am interested in design and modeling!
 <em><strong>Languages</strong></em> <span style='font-size:100px;'>&#8658;</span>
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,html,cs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,html&theme=light)](https://skillicons.dev)
 
 
 
